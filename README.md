@@ -1,2 +1,2 @@
 # Jazea.Configuration
-.NetCore Configuration Extensions for Zeekeeper
+.NetCore Configuration Extensions for Zookeeper
